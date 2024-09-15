@@ -6,7 +6,7 @@ This project aims to analyze and optimize social media performance across multip
 The dashboard provides comprehensive insights into content effectiveness, audience engagement, and campaign financial outcomes. By using this dashboard, stakeholders can make data-driven decisions to enhance content strategies, optimize ad spend, and improve overall social media ROI.
 
 # Live Dashboard
-Explore the live version of the dashboard here: [Live Dashboard](https://app.powerbi.com/groups/me/reports/33fdaa13-ffbb-48da-b0f6-a21ec938fd81/aa6a4100b202556d8718?experience=power-bi&bookmarkGuid=fea421f7d66e60deee0a)
+Explore the live version of the dashboard here: [Live Dashboard](https://app.powerbi.com/groups/me/reports/e6e46699-a71b-47d0-9598-9f5b3d447b59/aa6a4100b202556d8718?experience=power-bi)
 
 # Features of the Dashboard
 ### Overview and Key Performance Summary:  
